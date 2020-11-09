@@ -20,5 +20,4 @@ include_once "../Modelos/Usuarios.php";
 	$UsuarioControlador =  new UsuarioControlador();
 	$UsuarioControlador->ObtenerDatosUsuarios();
 	header("Location: ../Vistas/Usuarios/RegistrarUsuarios.php")
-
 ?>

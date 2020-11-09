@@ -1,8 +1,54 @@
+body
+{
+	font-family: Bernard MT Condensed;
+}
+h1
+{
+	text-align: center;
+}
+.div_principal
+{
+	width: 50%;
+	position: absolute;
+	margin: 5% 0% 0% 27%;
+}
+.cerrar_session
+{
+	width: 28%;
+	float: right;
+	margin: 2% 1%;
+}
 .editar
 {
-	width: 5%;
+	width: 26%;
+	margin: 0% 0% 5% 35%;
 }
 th
 {
+	border: solid;
+}
+.div_index
+{
 	border: solid red;
+}
+.claseinputuno
+{
+	width: 101%;
+}
+.claseselectuno
+{
+	width: 105%;
+}
+.tablaregistrousuarios
+{
+	border: solid;
+	width: 53%;
+	background-image: url(../Imagenes/fondo.jpg);
+	position: absolute;
+	margin: 0% 0% 0% 20%;
+}
+.div_usuarios_registrados
+{
+	position: absolute;
+	margin: 50% 0% 0% 0%;
 }
